@@ -6,9 +6,9 @@ This project applies machine learning techniques to financial data analysis and 
 - Python
 - Pandas
 - NumPy
-- Scikit-learn
-- Matplotlib
-- Jupyter Notebook
+- LSTM-MODELS
+- Ensemble-models
+- XG boost-models
 
 ## Author
 Chirag GD
